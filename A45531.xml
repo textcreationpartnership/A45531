@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Shadwell-Chappell in Yorkshire. By Thomas Hardcastle minister of the Gospell. Published by some of the hearers for their own vindication and the worlds satisfaction</title>
+            <author>Hardcastle, Thomas, d. 1678?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45531</idno>
+            <idno type="STC">Wing H699A</idno>
+            <idno type="STC">ESTC R213430</idno>
+            <idno type="EEBO-CITATION">99825815</idno>
+            <idno type="PROQUEST">99825815</idno>
+            <idno type="VID">30206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1794:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Shadwell-Chappell in Yorkshire. By Thomas Hardcastle minister of the Gospell. Published by some of the hearers for their own vindication and the worlds satisfaction</title>
+                  <author>Hardcastle, Thomas, d. 1678?</author>
+               </titleStmt>
+               <extent>[4], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sermon preached 18 June 1665. According to the preface, printed from the notes of the congregation, some of whom had been jailed for sedition.</note>
+                  <note>Reproduction of original in the Union Theological Seminary (New York, N.Y.) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30206:1"/>
+            <pb facs="tcp:30206:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT Shadwell-Chappell IN YORKSHIRE.</p>
+            <p>By <hi>Thomas Hardcaſtle</hi> Miniſter of the Goſpell.</p>
+            <p>Publiſhed by ſome of the Hearers for their own Vindication and the Worlds Satisfaction.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+               <p>He that is firſt in his own cauſe ſeemeth juſt, but his Neighbour cometh and ſearcheth him.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 5.11, 12.</hi>
+               </bibl>
+               <p>Bleſſed are ye when men ſhall revile you and perſecute you, and ſhall ſay all manner of evill againſt falſly for my Sake.</p>
+               <p>Rejoyce and be exceeding glad, for great is your reward in Heaven; for ſo perſecuted they the Prophets which were before you.</p>
+            </q>
+            <p>
+               <hi>London</hi> Printed in the Year 1665.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:30206:2" rendition="simple:additions"/>
+            <pb facs="tcp:30206:2"/>
+            <head>To the Reader.</head>
+            <salute>Reader,</salute>
+            <p>THis Sermon was preached at Shadwel Chappel in the Weſt-riding of Yorkſhire, <hi>June 18. 1665.</hi> be<g ref="char:EOLhyphen"/>ing the Lords day, where ſeveral times before at the re<g ref="char:EOLhyphen"/>queſt of the Inhabitants (the place being vacant) the Author had beſtowed his pains; when the Sermon was finiſhed in the forenoon, ſeverall Bailiffs upon colour of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warrant from three of his Majeſties Juſtices of the peace within the ſaid Riding; requiring them from time to time to apprehend all perſons riotouſly, ſeditiouſly, and impu<g ref="char:EOLhyphen"/>dently aſſembled at any unlawful Conventicle or Meet<g ref="char:EOLhyphen"/>ing, did Apprehend five and twenty of the hearers, and brought us before the aforeſaid Juſtices, who upon the Act made by this Parliament to prevent and ſuppreſs ſediti<g ref="char:EOLhyphen"/>ous Conventicles, committed us to the Gaol for two Months and three weeks; we not being conſcious to our ſelves of any the leaſt ſeditious deſign or practice againſt the King or his government, and deſirous likewiſe to clear our innocency to the World, have printed the Ser<g ref="char:EOLhyphen"/>mon, as it was taken in ſhort-hand by ſome of us, without any addition, alteration or correction by the Authour, which we did purpoſely wave, that the matter might ap<g ref="char:EOLhyphen"/>pear in greater ſimplicity and plainneſs; we not looking
+<pb facs="tcp:30206:3"/>
+on it as any offence, to be at the publick worſhip of God, on a publick day in a publick place; if the Author had not a licenſe to preach as we hear ſince is pretended, we conceive that did not belong to us to examine. The main deſign thou ſeeſt then of making this Sermon publick is our own vindication from the imputation of Sedition and faction, which effect we doubt not but it will have among all ſober and peaceable-minded men; and if it af<g ref="char:EOLhyphen"/>ford thee any hints for the good of thy ſoul, that additio<g ref="char:EOLhyphen"/>nal advantage muſt be ſet upon the account of free grace, to which head we muſt likewiſe refer the benefit we have received by ſuffering in ſo good a cauſe; <hi>Farewel.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:30206:3"/>
+            <head>The 1 Epiſt. of <hi>John</hi> Chap. 3. <hi>v.</hi> 1.</head>
+            <epigraph>
+               <q>Behold what manner of Love the Father hath beſtowed upon us that we ſhould be called the Chil<g ref="char:EOLhyphen"/>dren of God; Therefore the World knoweth us not, becauſe it knew him not.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Doctrine which ſeveral times hath been inſiſted upon, is this.</p>
+            <p>
+               <hi>Doctr.</hi> That believers or right Chriſti<g ref="char:EOLhyphen"/>ans, are the Children of God. I have upon other occaſions ſpoken largely <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Doctrine; and ſhewed what it is to be the Children of God; And what the ſpecial Privi<g ref="char:EOLhyphen"/>ledges of the Children of God are. I named Six. Firſt, Freedom or Liberty. Secondly, Honour or Dignity. Thirdly, Inſtruction. Fourthly, Correction. Fifthly, Maintenance; and Sixthly, Inheritance. I ſhewed you from the Goſpel what
+<pb n="2" facs="tcp:30206:4"/>
+this inheritance was, and made ſome entrance upon the Application.</p>
+            <p>The Firſt Uſe was this, To let us ſee, who they are that are truly rich, and who the great heirs are. Not (perhaps) they that can ſay The lines are fallen to us in a good ground; thoſe that have many Lord<g ref="char:EOLhyphen"/>ſhips and large Poſſeſſions but thoſe that are heirs of God and Joynt heirs with Chriſt, how poor ſoever they be in the World: and truly it will not be ſpoken too much, nor indeed any thing beſide the Scripture and right Reaſon to ſay, That there are but few that are great heirs in the World that are right heirs of God; Not many Wiſe, not many Noble are, <hi>&amp;c.</hi> The Poor have the Goſpel preach't unto them. It is not for nothing that both our Sa<g ref="char:EOLhyphen"/>viour and likewiſe the Apoſtle tells us of a great Enmity and Difference that is betwixt the riches of this World and the Riches of another.</p>
+            <p>They ſeldom agree together; God hath choſen the Poor in this World, Rich in Faith: The Poor in this World and Rich in Faith go together, which puts me in mind what Mr. <hi>Herbert</hi> in his Poems ſays to this purpoſe, ſpeaking concerning the courſe of the Goſpel, that it went like the Sun from Eaſt to Weſt, and in time it would come to <hi>America,</hi> and that God was making way for the Goſpel in <hi>Ameri<g ref="char:EOLhyphen"/>ca</hi> by fetching their Gold from them.</p>
+            <q>
+               <l>Then ſhall Religion to America flee;</l>
+               <l>They have their times of Goſpel even as we.</l>
+               <l>
+                  <pb n="3" facs="tcp:30206:4"/>My God! thou doſt prepare for them alwayſ</l>
+               <l>By carrying for them, firſt, their Gold away;</l>
+               <l>For Gold and Grace could never yet Agree;</l>
+               <l>Religion always ſides with Poverty.</l>
+            </q>
+            <p>This anſwers that of the Goſpel, the Poor in this World, Rich in Faith: But then Secondly.</p>
+            <p>
+               <hi>Uſe.</hi> 2. This lets us ſee why thoſe that had an in<g ref="char:EOLhyphen"/>tereſt in this Inheritance, were ſo little concernd a<g ref="char:EOLhyphen"/>bout the World. They have ſo much in their hope, that they reckon little of what they have or might have. If they had been mindful of the Country from whence they came they might have had Opportu<g ref="char:EOLhyphen"/>nity to Return. The people of God are ſaid not to be of the World: They are come out of it; God hath called them out of it; but if they were mindfull of this World from whence they came, they might have Opportunity of Returning thither and getting the Advantages and Attaining the Dignity and Poſſeſſions that others have.</p>
+            <p n="2">2. Now they deſire a better Country, that is, an heavenly: Regard not your ſtuff, for all the good of the Land of <hi>Egypt</hi> is before you: As for the Aſ<g ref="char:EOLhyphen"/>ſes, ſet not thy heart on them; for on whom is the Deſire of Iſrael but on thee? Thoſe, that have an in<g ref="char:EOLhyphen"/>tereſt in the Kingdom, they do not ſet their minds upon the Aſſes; they are of <hi>Abrahams</hi> minde to <hi>Lot,</hi> Let there be no ſtrife between me and thee; If thou wilt take the Right hand, I will take the Left; and if thou wilt take the Left hand, I will take the Right. Thoſe that are heirs of the Promiſe, they are
+<pb n="4" facs="tcp:30206:5"/>either for the Right hand or the Left, in the World: where will he not be contented to ſit, that knows where one day he muſt ſit? He will not much ſtrive for place that knows any thing of Gods Right hand; he will never ſtrive much for pleaſures here that knows of pleaſures hereafter.</p>
+            <p>But we come to a ſeventh uſe, That ſince there is ſuch an inheritance of the Saints, we ſhould be provoked to all Care &amp; diligence to make it ours: This uſe is ſeaſonable, and let this be the end of our Meeting this day, to get as near heaven as we can. What? ſo good an inheritance as you have heard, and ſhall we be ſo ſlack about it? What ſaid <hi>Caleb</hi> upon hearing the words of the ſpyes that went to the Land of <hi>Canaan? Num.</hi> 13.27, 30. <hi>Let us go up at once and Poſſeſs it.</hi> They had affirmed that it was a Land flowing with Milk and Ho<g ref="char:EOLhyphen"/>ney, <hi>&amp;c.</hi>
+            </p>
+            <p>But it may be inquired: How may we get Hea<g ref="char:EOLhyphen"/>ven. I ſhall ſpend ſome time in Anſwering to this. If you would be partakers of this Inheri<g ref="char:EOLhyphen"/>tance, then,</p>
+            <p>Firſt, Endeavour to clear up your belief of it: It is not for nothing the Apoſtle faith, that all men have not faith. It is not for nothing our Saviour ſaith, When the Son of Man comes, ſhall he find faith on the earth? Nay there is much of unbeleif amongſt thoſe that are believers: Labour there<g ref="char:EOLhyphen"/>fore to get a greater knowledge of the truth and certainty of the Goſpel: For all muſt hang upon this. It is not for nothing, that one chief Reaſon why St. <hi>Luke</hi> writes his Goſpel, it was this:
+<pb n="5" facs="tcp:30206:5"/>
+               <hi>Luke</hi> 1.4. <hi>That thou mighteſt have the certainty of thoſe things wherein thou haſt been inſtructed.</hi> Well; Therefore labour to be acquainted with the Laſt Article of your Creed, Life Everlaſting: with the truth of it. When we read in <hi>Heb.</hi> 3.12. to the end of the 4. <hi>&amp;c.</hi> that they could not enter in becauſe of unbelief; how ſhould this make us tremble and take heed leſt a promiſe being made of entring into reſt, any of us ſhould come ſhort of it by an evil heart of unbelief, &amp;c. Surely if we had a greater and more firm belief of Heaven, we ſhould be much altered creatures: we ſhould not love the World ſo much, nor fear the World ſo much; we ſhould not be ſo backward in Duty, nor ſo ſtraitned in Duty: all proceeds from unbelief: How active are the men of the World! their grounds of certain<g ref="char:EOLhyphen"/>ty are not ſo great as the Truths of the Goſpel: According to our faith, ſo will our Love be; and ac<g ref="char:EOLhyphen"/>cording to our Love, ſo will our working be: when we ſpeak of the Glory of Heaven and of the Inheri<g ref="char:EOLhyphen"/>tance of the Saints, it is to be feared that many are ready to think concerning us, as they ſaid concern<g ref="char:EOLhyphen"/>ing <hi>Ezekiel,</hi> O Lord, they ſay of me, Doth he not ſpeak Parables? They complained and ſaid that he ſpoke Parables; ſo when we are ſpeaking of the Glory of Heaven and of Life Everlaſting, do not many think that we are ſpeaking Parables and Pa<g ref="char:EOLhyphen"/>radoxes? pretty Alluſions and Conceits to paſs a<g ref="char:EOLhyphen"/>way the time, or that we ſpeak figuratively or Hy<g ref="char:EOLhyphen"/>perbolically? Therefore there is great need that our thoughts ſhould run much upon the truth of the Goſpel; doubtleſs the ſame ſpirit that was in <hi>Di<g ref="char:EOLhyphen"/>ves</hi>
+               <pb n="6" facs="tcp:30206:6"/>
+poſſeſſe many now adayes; that conceit of his that if one came from the dead, they would believe: ſo if a Meſſenger came from heaven &amp; told us of the joys of that place and what he ſaw, then we would believe; but ſee what a great deceit of the heart this is: Firſt Our Saviour tells us, They have <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and the Prophets, and if they believe not them, neither would they believe, though one came from the dead: Oh! Conſider this.</p>
+            <p>But then Secondly, this is a great deceit of the heart: Conſider from this that this is to be wiſer then God: as if he had not provided the beſt Means of Faith that could be deviſed: either God is not ſo wiſe as he ſhould be, or hath not that good will, or elſe he would provide the beſt Means: But then</p>
+            <p>Thirdly, Thoſe that ſay If one came from the Dead, they would believe: They ſpeak dayly with them that have been there: Jeſus Chriſt knew better (becauſe he was purchaſer of this Inheritance) what this Inheritance is; we are ſpeaking dayly with him, and he tells us fre<g ref="char:EOLhyphen"/>quently what a place it is in the Goſpel, and there<g ref="char:EOLhyphen"/>fore we do ſpeak with one that came from the dead.</p>
+            <p>Fourthly, There is greater Reaſon that we ſhould believe <hi>Moſes</hi> and the Prophets, Chriſt and the A<g ref="char:EOLhyphen"/>poſtles, then one raiſed from the dead, becauſe there are more Reaſonable exceptions againſt one coming from the dead then there can be againſt Chriſt and the Goſpel; for there might much be ſaid againſt one that pretends to come from the
+<pb n="7" facs="tcp:30206:6"/>
+dead: He muſt bring his Letters Pattents with him, he muſt bring his Commiſſion with him: he muſt bring Evidence with him that he comes from God; elſe we ought to Reject him as one of Satans An<g ref="char:EOLhyphen"/>gels and Meſſengers.</p>
+            <p>Fifthly, Conſider this, that the word of God is preferred before the voice of an Angel from Heaven contradicting of it, and that is more then a Ghoſt from the dead, <hi>Gal.</hi> 1.8.</p>
+            <p>Sixthly, The word of God is preferr'd before the voice of God from Heaven; we have a more ſure word of Propheſie; the Goſpel of Jeſus Chriſt is more then the voice of God, which ſaid <hi>This is my beloved Son in whom I am well pleaſed:</hi> The Go<g ref="char:EOLhyphen"/>ſpel is a more ſure word then the voice of God from Heaven.</p>
+            <p>Seventhly, Conſider with me the two great con<g ref="char:EOLhyphen"/>firmations of Divine Teſtimony for the grounding of you; and for the ſtrengthning of your belief as to the truth of the Goſpel. It will be very ſeaſonable to ſpeak to the two great evidences and Confirmati<g ref="char:EOLhyphen"/>ons of the truth of Divine Teſtimonies (to wit) The Spirit of Propheſy, and the Power of Miracles. Though I might mention many grounds of the truth of the Goſpel; yet I take theſe two to be the chief; (to wit) The Spirit of Propheſie, and the Power of Miracles. And Jeſus Chriſt had both: God furniſhed Jeſus Chriſt with both theſe thereby to Confirm and make Evident the truth of that Doctrine which he was to preach in the World: The two cleareſt Evidences of the Truth are the Spirit of Propheſie and the power of Miracles. Firſt of all, The Spi<g ref="char:EOLhyphen"/>rit
+<pb n="8" facs="tcp:30206:7"/>
+of Propheſie: I ſhall ſhow, Firſt, What it is; and then Secondly, That Chriſt had this ſpirit of Propheſie: and Thirdly, how it comes to paſs that it is a Confirmation of the Goſpel. Firſt<g ref="char:punc">▪</g> What it is; There are three branches of a ſpirit of Propheſie: Firſt,</p>
+            <p>The Foretelling or Prediction of Future Events that are out of the reach of Created underſtanding; and ſo the foretelling (Firſt of all) of things that depend upon the Series of Natural Cauſes; or Se<g ref="char:EOLhyphen"/>condly, the foretelling of things which are within the reach of Devils to foretell; or Thirdly, The Foretelling of ſuch things as fall out Caſually true; but have no certain ground of Prediction: Theſe do not fall within the compaſs of the Spirit of Propheſie; But then,</p>
+            <p>Secondly, Thoſe things fall within the compaſs of the Spirit of Propheſie or Divine Revelation, (for that is the proper Notion of a Prophet <hi>(ſcil.)</hi> Divine Revelation) ſuch things as are certainly known by one man, and cannot be known by ano<g ref="char:EOLhyphen"/>ther; ſuch as are the knowledge of things that are done at a diſtance: and the knowledge of the thoughts of another Mans heart; and then Thirdly,</p>
+            <p>Matters of Faith that do exceed the reach of Hu<g ref="char:EOLhyphen"/>mane Apprehenſion or Comprehenſion, do belong to the Spirit of Propheſie: Thus you ſee what be<g ref="char:EOLhyphen"/>longs to a Spirit of Propheſie; now Jeſus Chriſt had all theſe. Firſt,</p>
+            <p>As to his foretelling of things to come; This the Goſpel is full of, that Jeſus Chriſt foretold
+<pb n="9" facs="tcp:30206:7"/>
+               <hi>Judas</hi> betraying of him; and as he foretold, ſo it came to paſs: and the Deſtruction of <hi>Jeruſalem:</hi> many things that he foretold in the Goſpel, came to paſs and, are coming to paſs daily. And Secondly,</p>
+            <p>For thoſe things that are known to one and not to Another; Jeſus Chriſt knew the thoughts of another mans heart. He knew his enemies hearts, his Diſciples hearts, and he knew what was doing before it was done. But Thirdly,</p>
+            <p>For matter of Faith, Jeſus Chriſt was a Teacher that came from God; the Incarnation of the Son of God, the union of the two natures, the death of Chriſt, theſe are diſcoveries that can be made by none but God, and theſe things Chriſt diſcove<g ref="char:EOLhyphen"/>red: Thus you ſee that Jeſus Chriſt had a Spirit of Propheſie: But then Thirdly,</p>
+            <p>That this Spirit of Propheſie was given to Chriſt to be a confirmation of the Doctrine which he ſhould deliver to the World, ſee theſe places; <hi>John</hi> 13.18. <hi>He that eats bread with me, hath lift up his heel againſt me:</hi> Chriſt foretells that <hi>Judas</hi> ſhould betray him: This was a very unlikely thing: for it was obſerved that he was the forwardeſt of any of the Apoſtles: he was ſo forward that every one of the Apoſtles did ſay, Mr. <hi>is it I,</hi> rather then <hi>Is it he;</hi> they ſuſpected themſelves ſooner then he: now ſays Chriſt, I tell you before, that when it comes to paſs, you may believe that <hi>I am he:</hi> Chriſt fore<g ref="char:EOLhyphen"/>tells things to come, that when they come to paſs we might believe that he was the <hi>Meſſias;</hi> and truly the things that come to paſs in the Chriſtian
+<pb n="10" facs="tcp:30206:8"/>
+World, they ſeem to look with an evil aſpect upon the Church and people of God: now theſe things ſhould be ſo far from diſcouraging of us, or from weakning our belief of the Goſpel, that they ſhould be a confirmation becauſe they are come to paſs: we ſhould believe that Chriſt is he.</p>
+            <p>The Second place is <hi>John.</hi> 14.29. ſaith he, <hi>And now I have told you before it come to paſs, that when it is come to paſs you might believe.</hi> I will ſend the Comforter, and I have told you this before, that when it comes to paſs you might believe: Well now, Hath Jeſus ſent you a Comforter? he is as good as his word: and here is a confirmation of the Truth of the Goſpel: ſo that the coming to paſs of thoſe things which are foretold in the Go<g ref="char:EOLhyphen"/>ſpel, is a confirmation of the Goſpel. Therefore believe it becauſe he is no other but God that hath diſcovered it: Thus you ſee the Spirit of Prophe<g ref="char:EOLhyphen"/>ſie or the foretelling of things that are without the reach of created underſtandings is an Argument of Divinity; and he that comes furniſht with ſuch a Commiſſion, we may believe what he ſayes.</p>
+            <p>Secondly, For the power of Miracles; concern<g ref="char:EOLhyphen"/>ing which I ſhall ſhew, Firſt, what it is. A Miracle is a production of ſomething out of nothing: which cannot be done by leſſe then God: For none but God can create or alter the Courſe of Nature: It is <hi>as Mr. Stilling-Fleet</hi> ſaith, a bringing of ſomething out of nothing; &amp; that either in the thing it ſelf w<hi rend="sup">ch</hi> cannot be produc'd by ſecond Cauſes, as raiſing of the dead: or elſe a bringing ſomething out of No<g ref="char:EOLhyphen"/>thing in the manner of doing, which may be done
+<pb n="11" facs="tcp:30206:8"/>
+by Second cauſes, but yet is done without the help of Second cauſes, as Curing Diſeaſes with a touch of the hem of a Garment, or with a word ſpeaking. Thus you ſee what a Miracle is.</p>
+            <p>Secondly, Obſerve that God never alters the courſe of Nature, but for ſome ſpecial end. The power of Miracles is not ordinary; for God never alters the courſe of Nature, but for ſome ſpecial end.</p>
+            <p>Thirdly, The chief end of the power of Mira<g ref="char:EOLhyphen"/>cles, is for the Confirmation of ſome truth that God would have the world to know.</p>
+            <p>Fourthly, That God will not give this power of Miracles to any that will abuſe it, for the confir<g ref="char:EOLhyphen"/>ming of a lye.</p>
+            <p>Fifthly, That Jeſus Chriſt had truly this power of Miracles; this cannot be denyed; even his ene<g ref="char:EOLhyphen"/>mies would grant it, or elſe they had opportunity to confute him.</p>
+            <p>Sixthly, That true Miracles may be known from falſe ones, becauſe Antichriſt comes with ly<g ref="char:EOLhyphen"/>ing words.</p>
+            <p>Seventhly, Divines lay down rules to know true Miracles from falſe ones; and I would have you take ſpecial notice of three eſpecially.</p>
+            <p>Firſt of all, true Miracles they always bring evi<g ref="char:EOLhyphen"/>dence along with them that they are of the truth, and they leave no diſpute but that they are true; they leave no doubt upon the Spirit.</p>
+            <p>Secondly, True Miracles are for the confirmati<g ref="char:EOLhyphen"/>on of a Divine teſtimony, and they do not contra<g ref="char:EOLhyphen"/>dict a divine teſtimony already confirm'd by a true
+<pb n="12" facs="tcp:30206:9"/>
+Miracle; for the moſt of the Doctrines which the Pa<g ref="char:EOLhyphen"/>piſts hold againſt us, they have confirm'd them by Miracles; but it is a ſign they are no true Mira<g ref="char:EOLhyphen"/>cles, becauſe they tend to confirm a Doctrine con<g ref="char:EOLhyphen"/>trary to the Doctrine which is already confirmed by unqueſtionable Miracles. Then</p>
+            <p>Thirdly, True miracles oppoſe Satans Kingdom; thoſe that tend to the advancement of Satans King<g ref="char:EOLhyphen"/>dom, are lying wonders: Then</p>
+            <p>Fourthly, I might add another; that true mira<g ref="char:EOLhyphen"/>cles are commonly mercies as well as miracles: Satans wonders tends to amaze, but not at all to do any good; but Chriſts miracles were moſt of them mercies as well as wonders: Thus you may ſee what may be ſaid to the power of miracles, as be<g ref="char:EOLhyphen"/>ing a chief confirmation of divine teſtimony.</p>
+            <p>Eightly and laſtly, the power of miracles in Chriſt was a confirmation of the truth of the Go<g ref="char:EOLhyphen"/>ſpel, and of his being the <hi>Meſſias;</hi> We know thou art a Teacher come from God, becauſe no man can do the miracles which thou doeſt except God be with him. Thus far we have gone, but yet grant it in the Hypotheſis, that miracles are an evidence of the truth of divine teſtimony. Can we ſay in the Theſis that ſuch miracles are truly done? There is a three<g ref="char:EOLhyphen"/>fold argument for that, which I would have you take notice of.</p>
+            <p>Firſt of all, the Apoſtles they were eye-witneſſes and could not be deceived; nay, many that would have been glad of any opportunity to accuſe them; yet it was never ſaid that any thing was falſly done. Nay the Jews that were as cunning in finding out
+<pb n="13" facs="tcp:30206:9"/>
+deceits that way, would have been glad of any ac<g ref="char:EOLhyphen"/>cuſation; if they had not been truly done, they would have found it out.</p>
+            <p>Secondly, the Apoſtles they could not be decei<g ref="char:EOLhyphen"/>vers; for they had no temptation to it; it was impoſ<g ref="char:EOLhyphen"/>ſible that if Chriſt had not been riſen otherwiſe then by their ſtealing of him, (which was objected) when they had found that Chriſt had not been ſo good as his word, they would rather have curſt him then confeſt him: and if they preach Salvation by one that was not otherwiſe riſen but by their ſteal<g ref="char:EOLhyphen"/>ing of him; yet the world would not have had the faith to believe it; yet we find that ſerious and in<g ref="char:EOLhyphen"/>quiſitive men, confeſt to be in their wits, did ſacri<g ref="char:EOLhyphen"/>fice their lives upon their belief of Chriſts being ri<g ref="char:EOLhyphen"/>ſen from the dead: of which they had no other aſſu<g ref="char:EOLhyphen"/>rance but the miracles which the Apoſtles wrought and their teſtimony; and then</p>
+            <p>Thirdly, a third thing will clear all; That there is a certain way of conveying the Copy of the Go<g ref="char:EOLhyphen"/>ſpel down to us, and that it is impoſſible that it ſhould be corrupted in any of thoſe things which are of concernment to the Chriſtian world; for there being Hereticks in all ages that wreſt the Scri<g ref="char:EOLhyphen"/>pture on purpoſe, if there had been any corruption in the Copy, they would have detected it, as being glad of ſuch an advantage againſt the truth of it. Well then, let it not ſeem a diverſion that I have ſpoken this to thoſe two arguments of the truth of the Goſpel; for ſince, if we come to ſuffer, all muſt hang upon this point, If the Goſpel be not true, we are undone for ever. <hi>He that findeth his life ſhall loſe</hi>
+               <pb n="14" facs="tcp:30206:10"/>
+               <hi>it, and he that loſeth his life for my ſake ſhall find it, &amp;c.</hi> and in other Scriptures, thus ſaith the Goſpel; and if this be not true we are undone for ever; and thus though the moſt ſatisfactory conviction to us be the teſtimony of the ſpirit of God, yet ſince we are rational creatures, and God dealeth with us as ſuch, we ought to be furniſhed, and enabled, and ready to give a reaſon of the hope that is in us. For Reli<g ref="char:EOLhyphen"/>gion is reaſonable; and though the matter of the Goſpel be above reaſon, and not capable of being demonſtrated from the things themſelves; as how can it be proved by reaſon that there can be a reſur<g ref="char:EOLhyphen"/>rection, that there can be <hi>Three Perſons in One?</hi> and many other Doctrines of the Goſpel; yet I ſay it may be demonſtrated that it is a reaſonable thing to believe ſuch things, though they be above reaſon; and though we cannot have reaſon for the things themſelves, yet there is reaſon vvhy vve ſhould be<g ref="char:EOLhyphen"/>heve them. And I ſay ſince that it is not unuſual with Satan to aſſault the beſt Chriſtians here about the belief of the Goſpel; and ſeeing the operation of the ſpirit, and the feeling teſtimony of the ſpirit to the truth of the Scriptures, may not be always rea<g ref="char:EOLhyphen"/>dy; therefore it is good to keep the out-works, to keep the Guard in the out-works, not to lie all the ſtreſs within, but to be fortified with arguments and reaſons: for the operations or vvorking of the Will and the affections are more uncertain and more changeable then the acts of the underſtanding; let us therefore always be furniſhed with arguments of reaſon to help our feeling, to rub up our feeling, and to quicken us. The ſpirit is a ſpirit of underſtand<g ref="char:EOLhyphen"/>ing,
+<pb n="15" facs="tcp:30206:10"/>
+a ſpirit of Wiſdom and doth deal with ratio<g ref="char:EOLhyphen"/>nal men by rational means ordinarily. Well, there<g ref="char:EOLhyphen"/>fore you ſee that we ought to be furniſhed with Ar<g ref="char:EOLhyphen"/>guments; and theſe are two that we may be furniſhed with: If Satan ſhould aſſault us that vvay, vve may be ready to beat him; and Laſtly,</p>
+            <p>Conſider, the Miracles which Chriſt wrought, are not only a Confirmation of this Doctrine as they are a Conviction that he comes from God, and what he ſayes comes from God: but likewiſe in his Miracles there is ſomething Chriſtians may make uſe of as a Motive, and as an Argument to doe theſe Dutyes which thoſe Miracles were brought to confirme; There is ſomething in the Miracle beſides the Divine power which may be as a Mo<g ref="char:EOLhyphen"/>tive and an argument to Chriſtians in their dutyes; as thus, Jeſus Chriſt when they came to apprehend him, he with a word ſpeaking cauſed the officers to fall to the ground, ſaying, <hi>I am he.</hi> This may encourage us that Jeſus Chriſt will ſtand with us<g ref="char:punc">▪</g> though not with a Miracle, yet by his powerful preſence when we come to be apprehended; ſo <hi>He that will loſe his Life, ſhall ſave, it &amp;c.</hi> Now we may be comforted that we ſhall ſave ours by lo<g ref="char:EOLhyphen"/>ſing of it; for he did ſo, <hi>He ſaved his life by lo<g ref="char:EOLhyphen"/>ſing it for our ſakes;</hi> ſo when we come to any Doctrine or Precept, get a Miracle to back it and it will be of great uſe to you; when you would be exhorted to the duty of Charity, let that Mi<g ref="char:EOLhyphen"/>racle ſo back it, how Chriſt fed 500. with five Loaves, and 2. ſmall fiſhes; ſo get your charity ſtrengthened by a Miracle <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:30206:11"/>But I cannot ſtand upon this: theſe are the two ſpecal things for confirmation of the Doctrine of the Goſpel: the ſpirit of Propheſy, and the power of Miracles.</p>
+            <p>The Eight and laſt, for thoſe that ſeeme to be at an uncertainty about Heaven: Conſider whether it be not worth the while to put it out of doubt whether there be ſuch a thing or no: For it is not a matter of ſuch ſmall moment, whether it be or no.</p>
+            <p>But you that are not ſure, are you ſure there is no ſuch thing? if there be a Heaven and a Hell, what a caſe are we in, if we do not look after the one, and avoid the other? Surely it ſhould cauſe us to work out our Salvation with fear and trembling: If there be any ſuch thing, no diligence is too much; and if there be no ſuch thing, any diligence is too much: Let us not halt between two Opinions, <hi>&amp;c.</hi> Let there be no demurrs in our Spirits, but let us be ſatisfied about it: <hi>I preſſe hard,</hi> ſaith the Apoſtle; I was once a perſecutor and earneſt againſt the Go<g ref="char:EOLhyphen"/>ſpel, and I uſe the ſame violence in preaching the Goſpel that I uſed before in perſecuting it: I <hi>per<g ref="char:EOLhyphen"/>ſecute:</hi> the word ſignifies I <hi>preſſe</hi> and <hi>purſue.</hi> So run that ye may obtain: It is a diſhonour to the Joys of Heaven, to have half and ſaint attempts a<g ref="char:EOLhyphen"/>bout it. To conclude, Examine your ſelves and you will find that all that ſluggiſhneſs in Duty, all that fearfulneſs that you are guilty of, proceeds meerly from unbelief; you are not ſatisfied and perſwaded of the truth of the Goſpel of Chriſt; this is evident: compare it with your practice: What pains does
+<pb n="17" facs="tcp:30206:11"/>
+the Husbandman take for Corn upon the hopes of a Crop? The Merchant he will venture and run ha<g ref="char:EOLhyphen"/>zards. We ought to run hazards for Heaven of which there is more certainty then can be of any thing.</p>
+            <p>This is the Firſt thing that you muſt do for the getting of Heaven, Be ſatisfied of the truth of it that there is ſuch a thing.</p>
+            <p>Secondly, When you are ſatisfied of the truth, endeavour to underſtand the nature of it from Scripture: Men take up falſe Notions concern<g ref="char:EOLhyphen"/>ing Heaven, and they look on it as a place free from trouble, and ſo deſire it. Oh! look upon Hea<g ref="char:EOLhyphen"/>ven as an holy place, free from ſin, and that is the happineſs of it: There are thouſands of men that deſire heaven, who if they were there, it would be a burden to them: Heaven muſt be begun here.</p>
+            <p>Thirdly, ſtudy to know more your Diſtance by Nature from heaven: You are not born heirs, unleſs it be heirs of wrath: No man ever got this Inhe<g ref="char:EOLhyphen"/>ritance that thought he deſerv'd it; no man ever got to be in any place in heaven that did not think that he did deſerve to be in the loweſt place in hell; they that think to have this Kingdom by their own good Nature, and not through the Fathers good will, they ſhall never come at it. We come into the World quite contrary unto God; we are by Nature haters of God, hated by God, ſtrangers and enemi<g ref="char:EOLhyphen"/>es, and afar off; And look what Heaven is, the dia<g ref="char:EOLhyphen"/>meter is our nature, and look what our natures is, the oppoſite point is Heaven; we are dead, but our
+<pb n="18" facs="tcp:30206:12"/>
+Life and Immortality is with God in Heaven: we are darkneſs, but there is a marvellous light: There is freedom, but we ſerve divers luſts and pleaſures: There is the love of God, but we have carnal minds which is enmity unto God. Oh! you can never come at heaven, till you underſtand your diſtance from it by nature; and then</p>
+            <p>Fourthly &amp; Laſtly, be acquainted with thoſe ways &amp; means, ſteps &amp; degrees, which God makes uſe of to bring his Children to heaven, and ſo you may ob<g ref="char:EOLhyphen"/>ſerve, how you paſs from <hi>Egypt</hi> to <hi>Canaan,</hi> and how you proceed from one point unto another; it is a long March, and it is through the Wilderneſs, which is a tedious, dark, and difficult, and ſolitary way; onely there is your beloved to lean on; there is a pillar of a cloud, and a pillar of fire: It may be you want water for many dayes, or you have the bitter waters of ſorrow, and then God throws in a Tree, (to wit) the Croſs of Chriſt which makes them ſweet; ſometimes you want bread, and God gives you bread from Heaven; and when you com<g ref="char:EOLhyphen"/>plain again for want of water, He makes it come out of a Rock, to confute your unbelief; ſearch the Goſpel and you will find by what ways and means, ſteps and degrees God brings his Children to Hea<g ref="char:EOLhyphen"/>ven: The Goſpel tells us that it is by Repentance &amp; faith in Chriſt; that is one deſcription of the way; he tells us it is by dying unto ſin, and living unto righteouſneſs: It is by Mortification, and sanctifi<g ref="char:EOLhyphen"/>cation; by putting off the old man, and putting on the new man; by crucifying the fleſh with the affections and luſts, and putting on the Lord Jeſus Chriſt: It is
+<pb n="19" facs="tcp:30206:12"/>
+by caſting off the works of darkneſs, and putting on the armour of light; It is by denying a mans ſelf, and taking up his Croſs and following Chriſt; de<g ref="char:EOLhyphen"/>nying ſinful ſelf, and righteous ſelf, and being ready to deny his natural ſelf; It is Regeneration, and being born again; It is a being transformed; It is a renewing; It is a change; It is a having Chriſt within us; It is a having the ſpirit of Chriſt within us; It is a bringing forth the fruits of the ſpirit, and and not the fruits of the fleſh: Divines have made four or five ſteps. Firſt, Illumination or knowledge. Secondly, Conviction of the filthineſs of our Na<g ref="char:EOLhyphen"/>tures, and of the weakneſs of them to do any thing. Thirdly, Humiliation or Evangelical ſorrow for ſin: A ſorrow for ſin becauſe it hath wrong'd and envy'd Jeſus Chriſt, becauſe it hath Crucifyed him; then a diſcovery of the neceſſity, ſuteableneſs, and fulneſs of Jeſus Chriſt; and then a breathing after Jeſus Chriſt, and a longing after him, and reſoluti<g ref="char:EOLhyphen"/>ons to give up our ſelves to him; to keep nothing from him, and to bring nothing to him; to keep nothing from him (that is) no luſt, no ſin; to bring nothing to him, no duty, no righteouſneſs of our own. Theſe things I might be large in, but I do not intend a large diſcuſſion of them; ſo much for that Uſe to know how a man may get to heaven: A Chriſtian by going theſe ſteps, may know how he comes nearer to heaven, how his love increaſes to the Father, and what Victory he gets over the world, and over himſelf. In the eight place, Is it ſo that Chriſtians have ſuch an Inheritance? this may perſwade the Children of God that are rich in this
+<pb n="20" facs="tcp:30206:13"/>
+world, to imploy ſome of their riches this way, as may not only be a ſigh that God hath made it ſure, but likewiſe a means, if other things be anſwerable, to ſecure that of the true riches; but how is that done? the Apoſtle tells us in the firſt of <hi>Timothy</hi> 6.17, 18; <hi>Charge them that are rich in this world, that they be not high-minded, nor truſt in uncertain riches, but in the living God, who giveth us richly all things to enjoy. That they do good, that they be rich in good works, ready to diſtribute, willing to communicate, &amp;c.</hi>
+            </p>
+            <p>Here are four expreſſions; why is the Apoſtle ſo preſſing in theſe four; but becauſe the duty is of great neceſſity, and becauſe of mens backwardneſs to perform it? It is a truth of much plainneſs, and therefore muſt not be neglected.</p>
+            <p>But before I proceed, I ſhall premiſe two things by way of Caution.</p>
+            <p>Firſt That I do not ſpeak this as if I thought or believed you to whom I am ſpeaking to be ſlack this way; for according to that,</p>
+            <q>
+               <l>Qui monet ut ſaclus quod am facis, ille monendo</l>
+               <l>Laudat &amp; hortat <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> comprobat a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io.</l>
+            </q>
+            <p>He that doth admoniſh a thing which a man performs already, he commends him by that ad<g ref="char:EOLhyphen"/>monition, and doth approve of that which he doth by that exhortation; ſo that ſuch an exhortation is a commendation. And it is a truth of much plain<g ref="char:EOLhyphen"/>neſs, therefore it muſt be ſpoken to; there is much of a Chriſtian, and much of the Goſpel in it: Now for one part of a Chriſtians doing good, Chriſtian communicating muſt be to the poor Miniſters of the Goſpel; This muſt be ſpoken to becauſe it is a truth of much plainneſs, and it is a Maxime as true
+<pb n="21" facs="tcp:30206:13"/>
+(almoſt) as the Goſpel, He never had any ſhare in the Goſpel, who grudgeth that the Goſpel ſhould have a ſhare in him. The Goſpel was never ac<g ref="char:EOLhyphen"/>counted a chargeable Gueſt, but where it was no profiting Gueſt; let the Goſpel do what it ſhould to us, and we will not grudge, if neceſſary, and in our power to give Gold to eat, and Balm to drink. It is a ſign of great fruitfulneſs; but wiſdom and diſcre<g ref="char:EOLhyphen"/>tion muſt be uſed in this; for ſuch bounty and libe<g ref="char:EOLhyphen"/>rality muſt be beſtowed where there are the greateſt neceſſities. I mean in a time of diſtreſs and neceſſi<g ref="char:EOLhyphen"/>ty, becauſe occaſions are many and urgent; elſe the Goſpel will prove burthenſome: it ſhould be the deſire of all, that the Goſpel and the Miniſters thereof might be without burthen, though it is a thing rather to be wiſht then hoped for. All Mini<g ref="char:EOLhyphen"/>ſters ſhould endeavour to make it without a bur<g ref="char:EOLhyphen"/>then.</p>
+            <p>Second Caution; I am not ſaying theſe things that it ſhould be done ſo to me; as the Apoſtle ſaith, <hi>Go we about to take you by craft?</hi> I hope I may ſay that we have renounc'd ſuch hidden things of diſhone<g ref="char:EOLhyphen"/>ſty, not uſing the glorious Goſpel of Chriſt to ſo inglorious and baſe an end; he is unworthy of the name of a Miniſter that makes the Goſpel a Lacky for his gain: Miniſters have their reward in hea<g ref="char:EOLhyphen"/>ven; and if God ſo order the matter that they can make the Goſpel without charge and burthen, it is the greater honour that he doth them; and they may expect a great reward. <hi>Let them fail of their end, and miſcarry in their traſt, whoſe hearts meditate on ſuch a things and let the Curſe of</hi> Elves <hi>houſe come
+<pb n="22" facs="tcp:30206:14"/>
+upon them, to be baſe and beggarly Prieſts to crouch for a piece of Silver and a morſel of bread,</hi> firſt of <hi>Samuel</hi> ſecond chap. laſt ver. <hi>What therefore I ſay, I ſpeak it for your Edification; and I do it the more freely becauſe my own Conſcience is clear, that I have no ſiniſter end in it.</hi> But then to return to the matter (that they do good) but that Is not enough; but that they be rich in good works, not ſparing and niggardly, but rich; not ſo only, but ready to diſtribute, free and liberal to any honeſt motion, without wringing and wreſting through importunity; and not ſo only, but willing to communicate; yea, willing ſo to com<g ref="char:EOLhyphen"/>municate, as if all they had were common, and they but Carriers of the common Purſe: But what is the matter? why doth St. <hi>Paul</hi> thus preſs? doth he ſpeak for himſelf? nay, but for the laying of a good foundation againſt the time to come. But if St. <hi>Pauls</hi> Divinity will not down with you, what think you of Chriſts two Parables to this purpoſe, that men would be perſwaded to imploy ſome of the worlds goods to attain heavenly riches? Firſt, obſerve the Parable of the laſt Judgment, <hi>Mat.</hi> 25. Six ſpecial things worthy of your obſervation.</p>
+            <p>Firſt, the order how this Parable comes in, it doth immediately follow upon a Parable of Ta<g ref="char:EOLhyphen"/>lents; for no ſooner was the ſentence paſt. <hi>Caſt the unprofitable ſervant into utter darkneſs, &amp;c.</hi> But he adds this, the Talent of means and worldly riches to be imploy'd; and he that hides this Talent of worldly riches in a Napkin, he muſt have his por<g ref="char:EOLhyphen"/>tion you know where. But</p>
+            <p>Secondly, To provoke to this duty, he tells us
+<pb n="23" facs="tcp:30206:14"/>
+that ſpecial mention ſhall be made of this at the day of Judgment; not for faſting, or prayer, or for hearing, but that this ſhall be rewarded; this ſhall have a ſpecial honour in the Proceſs of the laſt ſo<g ref="char:EOLhyphen"/>lemn Judgment.</p>
+            <p>Thirdly, obſerve that good deeds are made to be done to no leſs then Chriſt; not to this poor wretch, or the other, or that miſerable Caitiff, or the third poor priſoner, but to Chriſt. And that you may know he is ſerious and in good earneſt, you have his Verily for it, <hi>Verily, verily, &amp;c.</hi> A form of ſpeech never uſed but when he is in very good ear<g ref="char:EOLhyphen"/>neſt. Chriſt ſaith <hi>v.</hi> 40. <hi>Verily, verily I ſay unto you, in as much as ye have done it unto one of the Leaſt of theſe my Brethren, ye have done it unto me.</hi> Take heed of your ſaying you know not Chriſt now, leaſt he tell you he knows not you another day; take heed of <hi>Neſcio</hi> for a <hi>Neſcio.</hi>
+            </p>
+            <p>Fourthly, obſerve the property of a true charita<g ref="char:EOLhyphen"/>ble man; he is not good to one but to all; <hi>I was hungry and ye fed me, ſick and in priſon, and ye viſited me;</hi> he is good to one, and good to all.</p>
+            <p>Fifthly, the property of true charity is to be do<g ref="char:EOLhyphen"/>ing good in this life-time; that can hardly be true charity, if a man be niggardly while he is alive, though he leave a great deal at his death, becauſe he gives it when he cannot keep it. When ſaw we thee an hungry, or ſick, or in priſon, and did not Mini<g ref="char:EOLhyphen"/>ſter unto thee? you never ſaw me, but you ſaw my Members. It is good for a Chriſtian to be his own Executor as to matter of charity, and then he can ſee what naked he hath cloathed, &amp;c. But then</p>
+            <p>
+               <pb n="24" facs="tcp:30206:15"/>Sixthly and laſtly, obſerve the ſuteableneſſe and naturalneſs of receiving the Inheritance, as having done good with their inheritance here upon earth; <hi>Inherit the Kingdom prepared for you; for I was an hun<g ref="char:EOLhyphen"/>gry and ye gave me meat.</hi> As if he ſhould ſay, <hi>you fed me, &amp;c. Therefore inherit the Kingdom; You gave to me, therefore I will give to you; you gave me yours, and I will give you mine;</hi> there is ſuteableneſs in it. Again take the Parable of the unjuſt Steward, propounded by our Saviour in the 16. of <hi>Luke, For no other end but to perſwade them that have a good portion of earthly things, to uſe it for the compaſſing of heaven.</hi> The un<g ref="char:EOLhyphen"/>juſt Steward when he was to be turn'd out of all, by kindneſſes done to his Maſters Debtors provides how he ſhould be received into their houſes when all ſaild; ſo ſays our Saviour, <hi>Make to your ſelves friends of the unrighteous Mammon, that when ye fail, they may receive you into everlaſting hobitations;</hi> what they? why your goods, and the lands, they will be means to receive you.</p>
+            <p>
+               <hi>Q.</hi> How come your goods and your lands to be a means to receive you? <hi>Anſ.</hi> Becauſe it was for their ſake that it ſhould be ſaid, <hi>Inherit the Kingdom pre<g ref="char:EOLhyphen"/>pared for you, for I was an hungry &amp;c.</hi> Obſerve the ſe<g ref="char:EOLhyphen"/>veral following circumſtances he uſes to inforce to this duty. Firſt of all, an extenuating of the things done by them. Secondly, an aggravating the fault. Firſt, by extenuating the things to be given, they are but the leaſt; <hi>And he that is faithful in that which is leaſt, is faithful alſo in much:</hi> And then Secondly, that we part with all; it is but the ſhadow as it were; and the other, is the riches; <hi>If you have not been faith<g ref="char:EOLhyphen"/>ful
+<pb n="25" facs="tcp:30206:15"/>in the unrighteous Mammon, who ſhall commit to you the true riches?</hi> That which we give is anothers, but heaven is our own. Theſe things are anothers, they are Gods; nay riches, <hi>They take themſelves wings and they fly away, and other men have ſometimes the power over them:</hi> But heavenly riches they are our own. But then</p>
+            <p>Secondly, he aggravates the fault, <hi>If we do not make friends of the unrighteous Mammon;</hi> Firſt, by calling it unfaithfulneſs; <hi>He that is not faithful in the leaſt, is not faithful in the greateſt.</hi> Secondly, by call<g ref="char:EOLhyphen"/>ing it Injuſtice; <hi>He that is unjuſt in the leaſt, will be unjuſt in the greateſt.</hi> Thirdly, he calls it plainly Im<g ref="char:EOLhyphen"/>piety; <hi>He that doth prefer his riches before God, he doth caſt off God, and ſerve Mammon.</hi> To all this, add this one circumſtance, that the ſpirit of God to terrifie all worldlings, doth by a ſpecial gird and brand note the covetous Phariſees for deriding him; <hi>The Phariſees alſo who were covetous, heard all theſe things, and they derided him, Luke</hi> 16.14. And ſo much ſhal ſerve to be ſpoken by way of uſe, of the ſixth and laſt priviledge of the Children of God. I ſhould now make a general uſe of the whole Doctrine: you know the Doctrine what it is, That Believers or right Chriſtians are the Children of God; But this I ſhall do (God permitting) in the Afternoon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
